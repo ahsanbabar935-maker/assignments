@@ -1,0 +1,25 @@
+p{
+    color:rgb(red, green, blue);
+    background-color: palegreen;
+}
+h1 {
+    color: 1C0770;
+    text-align: center;
+    font-weight: 100; 
+    letter-spacing:9;
+}
+a {
+   text-decoration: none;
+   cursor: wait;
+}
+p, h2,h3 {
+   line: height 40px;;
+   font-size: large;
+   font-family: Playwrite Cuba Guides;
+   background-color: aqua;
+   font-feature-settings: "abvf";
+}
+#align{
+    text-align: center;
+}
+    
