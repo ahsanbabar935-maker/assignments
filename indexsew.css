@@ -1,0 +1,25 @@
+
+.swiss{
+  width:200px;
+  height:200px;
+  background:red;
+  position:relative;
+}
+
+.v{
+  width:40px;
+  height:120px;
+  background:white;
+  position:absolute;
+  top:40px;
+  left:80px;
+}
+
+.h{
+  width:120px;
+  height:40px;
+  background:white;
+  position:absolute;
+  top:80px;
+  left:40px;
+}
